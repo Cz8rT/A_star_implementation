@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1674426399 source:e:\v_semestr\eri\a_gwiazdka\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"node.h"
+	"pokaz_mape.h"
+	"oblicz_Agwiazdka.h"
+	"wyswietl_noda.h"
+
+1674083038 source:e:\v_semestr\eri\a_gwiazdka\node.cpp
+	<iostream>
+
+1674401718 e:\v_semestr\eri\a_gwiazdka\node.h
+	<iostream>
+	<vector>
+
+1674309561 e:\v_semestr\eri\a_gwiazdka\pokaz_mape.h
+	<iostream>
+	<windows.h>
+
+1674406690 e:\v_semestr\eri\a_gwiazdka\oblicz_agwiazdka.h
+	<iostream>
+	<list>
+	<algorithm>
+
+1674316969 e:\v_semestr\eri\a_gwiazdka\wyswietl_noda.h
+	<iostream>
+
+1674426399 source:e:\v_semestr\eri\a_star\a_star_implementation\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"node.h"
+	"pokaz_mape.h"
+	"oblicz_Agwiazdka.h"
+	"wyswietl_noda.h"
+
+1674401718 e:\v_semestr\eri\a_star\a_star_implementation\node.h
+	<iostream>
+	<vector>
+
+1674309561 e:\v_semestr\eri\a_star\a_star_implementation\pokaz_mape.h
+	<iostream>
+	<windows.h>
+
+1674406690 e:\v_semestr\eri\a_star\a_star_implementation\oblicz_agwiazdka.h
+	<iostream>
+	<list>
+	<algorithm>
+
+1674316969 e:\v_semestr\eri\a_star\a_star_implementation\wyswietl_noda.h
+	<iostream>
+
